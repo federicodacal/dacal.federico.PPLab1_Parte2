@@ -1,0 +1,256 @@
+# depslib dependency file v1.0
+1622000438 source:c:\users\feder\documents\dacal.federico.pplab1\dacal.federico.pplab1\abm_bicicleteria\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bicicleta.h"
+	"utn_validaciones.h"
+	"tipo.h"
+	"color.h"
+
+1621968528 c:\users\feder\documents\dacal.federico.pplab1\dacal.federico.pplab1\abm_bicicleteria\bicicleta.h
+	"tipo.h"
+	"color.h"
+
+1621969119 source:c:\users\feder\documents\dacal.federico.pplab1\dacal.federico.pplab1\abm_bicicleteria\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bicicleta.h"
+	"color.h"
+
+1621431353 c:\users\feder\documents\dacal.federico.pplab1\dacal.federico.pplab1\abm_bicicleteria\color.h
+
+1621969990 source:c:\users\feder\documents\dacal.federico.pplab1\dacal.federico.pplab1\abm_bicicleteria\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fecha.h"
+
+1621426466 c:\users\feder\documents\dacal.federico.pplab1\dacal.federico.pplab1\abm_bicicleteria\fecha.h
+
+1621969355 source:c:\users\feder\documents\dacal.federico.pplab1\dacal.federico.pplab1\abm_bicicleteria\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bicicleta.h"
+	"servicio.h"
+
+1621433105 c:\users\feder\documents\dacal.federico.pplab1\dacal.federico.pplab1\abm_bicicleteria\servicio.h
+
+1621968766 source:c:\users\feder\documents\dacal.federico.pplab1\dacal.federico.pplab1\abm_bicicleteria\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bicicleta.h"
+	"tipo.h"
+
+1621430864 c:\users\feder\documents\dacal.federico.pplab1\dacal.federico.pplab1\abm_bicicleteria\tipo.h
+
+1622000232 source:c:\users\feder\documents\dacal.federico.pplab1\dacal.federico.pplab1\abm_bicicleteria\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trabajo.h"
+	"utn_validaciones.h"
+
+1621979890 source:c:\users\feder\documents\dacal.federico.pplab1\dacal.federico.pplab1\abm_bicicleteria\utn_validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn_validaciones.h"
+
+1621978971 c:\users\feder\documents\dacal.federico.pplab1\dacal.federico.pplab1\abm_bicicleteria\utn_validaciones.h
+
+1621999766 source:c:\users\feder\documents\dacal.federico.pplab1\dacal.federico.pplab1\abm_bicicleteria\datawarehouse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datawarehouse.h"
+
+1621999743 c:\users\feder\documents\dacal.federico.pplab1\dacal.federico.pplab1\abm_bicicleteria\datawarehouse.h
+	"Bicicleta.h"
+	"fecha.h"
+	"trabajo.h"
+
+1622028285 source:c:\users\feder\documents\dacal.federico.pplab1\dacal.federico.pplab1\abm_bicicleteria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bicicleta.h"
+	"tipo.h"
+	"color.h"
+	"fecha.h"
+	"servicio.h"
+	"trabajo.h"
+	"interfaz.h"
+	"informes.h"
+	"utn_validaciones.h"
+	"datawarehouse.h"
+
+1621891591 c:\users\feder\documents\dacal.federico.pplab1\dacal.federico.pplab1\abm_bicicleteria\trabajo.h
+	"servicio.h"
+	"fecha.h"
+	"tipo.h"
+	"bicicleta.h"
+
+1622001846 source:c:\users\feder\documents\dacal.federico.pplab1\dacal.federico.pplab1\abm_bicicleteria\interfaz.c
+	"interfaz.h"
+
+1621971284 c:\users\feder\documents\dacal.federico.pplab1\dacal.federico.pplab1\abm_bicicleteria\interfaz.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn_validaciones.h"
+
+1622028364 c:\users\feder\documents\dacal.federico.pplab1\dacal.federico.pplab1\abm_bicicleteria\informes.h
+	"informes.h"
+	"bicicleta.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+
+1622001445 source:c:\users\feder\documents\dacal.federico.pplab1\dacal.federico.pplab1\abm_bicicleteria\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"informes.h"
+	"bicicleta.h"
+	"utn_validaciones.h"
+	"color.h"
+
+1622039582 source:c:\users\feder\documents\dacal.federico.pplab1_parte2\dacal.federico.pplab1_parte2\abm_bicicleteria\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bicicleta.h"
+	"utn_validaciones.h"
+	"tipo.h"
+	"color.h"
+	"cliente.h"
+
+1622037746 c:\users\feder\documents\dacal.federico.pplab1_parte2\dacal.federico.pplab1_parte2\abm_bicicleteria\bicicleta.h
+	"tipo.h"
+	"color.h"
+	"cliente.h"
+
+1621430864 c:\users\feder\documents\dacal.federico.pplab1_parte2\dacal.federico.pplab1_parte2\abm_bicicleteria\tipo.h
+
+1621431353 c:\users\feder\documents\dacal.federico.pplab1_parte2\dacal.federico.pplab1_parte2\abm_bicicleteria\color.h
+
+1622038692 c:\users\feder\documents\dacal.federico.pplab1_parte2\dacal.federico.pplab1_parte2\abm_bicicleteria\utn_validaciones.h
+
+1621969119 source:c:\users\feder\documents\dacal.federico.pplab1_parte2\dacal.federico.pplab1_parte2\abm_bicicleteria\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bicicleta.h"
+	"color.h"
+
+1622038508 source:c:\users\feder\documents\dacal.federico.pplab1_parte2\dacal.federico.pplab1_parte2\abm_bicicleteria\datawarehouse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datawarehouse.h"
+
+1621999743 c:\users\feder\documents\dacal.federico.pplab1_parte2\dacal.federico.pplab1_parte2\abm_bicicleteria\datawarehouse.h
+	"Bicicleta.h"
+	"fecha.h"
+	"trabajo.h"
+
+1621426466 c:\users\feder\documents\dacal.federico.pplab1_parte2\dacal.federico.pplab1_parte2\abm_bicicleteria\fecha.h
+
+1622036717 c:\users\feder\documents\dacal.federico.pplab1_parte2\dacal.federico.pplab1_parte2\abm_bicicleteria\trabajo.h
+	"servicio.h"
+	"fecha.h"
+	"tipo.h"
+	"bicicleta.h"
+
+1622031664 c:\users\feder\documents\dacal.federico.pplab1_parte2\dacal.federico.pplab1_parte2\abm_bicicleteria\servicio.h
+
+1621969990 source:c:\users\feder\documents\dacal.federico.pplab1_parte2\dacal.federico.pplab1_parte2\abm_bicicleteria\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fecha.h"
+
+1622030662 source:c:\users\feder\documents\dacal.federico.pplab1_parte2\dacal.federico.pplab1_parte2\abm_bicicleteria\interfaz.c
+	"interfaz.h"
+
+1621971284 c:\users\feder\documents\dacal.federico.pplab1_parte2\dacal.federico.pplab1_parte2\abm_bicicleteria\interfaz.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn_validaciones.h"
+
+1622039902 source:c:\users\feder\documents\dacal.federico.pplab1_parte2\dacal.federico.pplab1_parte2\abm_bicicleteria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bicicleta.h"
+	"tipo.h"
+	"color.h"
+	"fecha.h"
+	"servicio.h"
+	"trabajo.h"
+	"interfaz.h"
+	"informes.h"
+	"utn_validaciones.h"
+	"datawarehouse.h"
+	"cliente.h"
+
+1622038202 c:\users\feder\documents\dacal.federico.pplab1_parte2\dacal.federico.pplab1_parte2\abm_bicicleteria\informes.h
+	"informes.h"
+	"bicicleta.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+
+1622031560 source:c:\users\feder\documents\dacal.federico.pplab1_parte2\dacal.federico.pplab1_parte2\abm_bicicleteria\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bicicleta.h"
+	"servicio.h"
+
+1621968766 source:c:\users\feder\documents\dacal.federico.pplab1_parte2\dacal.federico.pplab1_parte2\abm_bicicleteria\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bicicleta.h"
+	"tipo.h"
+
+1622039083 source:c:\users\feder\documents\dacal.federico.pplab1_parte2\dacal.federico.pplab1_parte2\abm_bicicleteria\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trabajo.h"
+	"utn_validaciones.h"
+	"cliente.h"
+
+1622036064 source:c:\users\feder\documents\dacal.federico.pplab1_parte2\dacal.federico.pplab1_parte2\abm_bicicleteria\utn_validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn_validaciones.h"
+
+1622039798 source:c:\users\feder\documents\dacal.federico.pplab1_parte2\dacal.federico.pplab1_parte2\abm_bicicleteria\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"informes.h"
+	"bicicleta.h"
+	"utn_validaciones.h"
+	"color.h"
+	"servicio.h"
+	"fecha.h"
+	"cliente.h"
+
+1622038630 c:\users\feder\documents\dacal.federico.pplab1_parte2\dacal.federico.pplab1_parte2\abm_bicicleteria\cliente.h
+
+1622039852 source:c:\users\feder\documents\dacal.federico.pplab1_parte2\dacal.federico.pplab1_parte2\abm_bicicleteria\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
